@@ -7,6 +7,6 @@
 | Android Studio                            |  done  | Android Studio Hedgehog | 2023.1.1 Patch 1 |
 | SDK                                       |  done  | 34      |
 | ANDROID_HOME & Add platform-tools to Path |  done  | -     |
-| Android Emulator (opt)                    |  done  | -     |
+| Android Emulator (opt)                    |  done  | pysical     |
 | Create Project RN using npx               |  done  | -     |
-| Run Project on Emulator / Device          |  done  | -     |
+| Run Project on Emulator / Device          |  done  | -     | 
