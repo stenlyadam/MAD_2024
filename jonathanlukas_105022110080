@@ -1,0 +1,10 @@
+| Langkah-langkah                           | Status | Versi |
+| ----------------------------------------- | ---- | ----- |
+| Instalasi Node                            | Done |  node-v18.17.1-x64  |
+| Instalasi JDK                             | Done |  17.0.9 |
+| Android Studio                            | Done | android-studio-2023.1.1.27-windows |
+| SDK                                       | Done | 33 |
+| ANDROID_HOME & Add platform-tools to Path | Done | -     |
+| Android Emulator (opt)                    | Done | Pixel 6 Pro API 33 |
+| Create Project RN using npx               | Done | "test" |
+| Run Project on Emulator / Device          | Done | -     |
