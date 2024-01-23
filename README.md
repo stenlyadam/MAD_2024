@@ -23,7 +23,7 @@ Pada Chapter ini kita akan melakukan instalasi [react native]. Pada latihan ini 
 | Android Studio                            |  done  | android-studio-2023.1.1.27-windows      |
 | SDK                                       |  done  | 33                                      |
 | ANDROID_HOME & Add platform-tools to Path |  done  | -                                       |
-| Android Emulator (opt)                    |  done  | pixel 2 pro api 33                      |
+| Android Emulator (opt)                    |  done  | pixel 7 pro api 33                      |
 | Create Project RN using npx               |  done  | -                                       |
 | Run Project on Emulator / Device          |  done  | -                                       |
 
