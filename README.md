@@ -33,12 +33,12 @@ Sebagai contoh :
 
 | Langkah-langkah                           | Status | Versi                       |
 | ----------------------------------------- | ------ | --------------------------- |
-| Node                                      | Done   | 12.13.1                     |
-| JDK                                       | Done   | [openjdk 11.0.5 2019-10-15] |
-| Android Studio                            | Done   | 4.0                         |
-| SDK                                       | Done   | 29                          |
+| Node                                      | Done   | 20.11.0                     |
+| JDK                                       | Done   | [openjdk Amazon Coretto 17] |
+| Android Studio                            | Done   | 17.0.7                      |
+| SDK                                       | Done   | 33                          |
 | ANDROID_HOME & Add platform-tools to Path | Done   | -                           |
-| Android Emulator (opt)                    | Done   | pixel 2 xl api 29           |
+| Android Emulator (opt)                    | Done   | pixel xl api 33             |
 | Create Project RN using npx               | Done   | -                           |
 | Run Project on Emulator / Device          | Done   | -                           |
 
