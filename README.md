@@ -16,31 +16,17 @@ Pada Chapter ini kita akan melakukan instalasi [react native]. Pada latihan ini 
 
 ## Status Instalasi
 
-| Langkah-langkah                           | Status | Versi |
-| ----------------------------------------- | ------ | ----- |
-| Instalasi Node                            |        |       |
-| Instalasi JDK                             |        |       |
-| Android Studio                            |        |       |
-| SDK                                       |        |       |
-| ANDROID_HOME & Add platform-tools to Path |        | -     |
-| Android Emulator (opt)                    |        | -     |
-| Create Project RN using npx               |        | -     |
-| Run Project on Emulator / Device          |        | -     |
+| Langkah-langkah                           | Status | Versi                                      |
+| ----------------------------------------- | ------ | -----                                      |
+| Instalasi Node                            | Done   | 20.11.0                                    |
+| Instalasi JDK                             | Done   | amazon-corretto-17.0.9.8.1                 |
+| Android Studio                            | Done   | Android Studio Hedgehog | 2023.1.1 Patch 1 |
+| SDK                                       | Done   | 30                                         |
+| ANDROID_HOME & Add platform-tools to Path | Done   | -                                          |
+| Android Emulator (opt)                    | Done   | Pixel 4a api 30                            |
+| Create Project RN using npx               | Done   | -                                          |
+| Run Project on Emulator / Device          | Done   | -                                          |
 
-Silahkan update status instalasi anda, apabila sudah terinstall silahkan isi versinya:
-untuk mengetahui versi node ketik dari cmd (node -v) untuk mengetahui versi JDK ketik dari cmd (java --version).
-Sebagai contoh :
-
-| Langkah-langkah                           | Status | Versi                       |
-| ----------------------------------------- | ------ | --------------------------- |
-| Node                                      | Done   | 12.13.1                     |
-| JDK                                       | Done   | [openjdk 11.0.5 2019-10-15] |
-| Android Studio                            | Done   | 4.0                         |
-| SDK                                       | Done   | 29                          |
-| ANDROID_HOME & Add platform-tools to Path | Done   | -                           |
-| Android Emulator (opt)                    | Done   | pixel 2 xl api 29           |
-| Create Project RN using npx               | Done   | -                           |
-| Run Project on Emulator / Device          | Done   | -                           |
 
 ## Langkah-langkah Pengumpulan Latihan
 
