@@ -47,7 +47,7 @@ Sebagai contoh :
 - Fork project github ini. Ada terdapat 3 branch yaitu: master, parallel-a, parallel-b, parallel-c
 - Cloning repository hasil forking ke local laptop/PC.
 - Dari local laptop/PC anda buat branch baru dengan nama sesuai dengan nama diikuti oleh nim. contoh: johndoe_105022110001
-- Duplicate file README.md dan rename file tersebut sama seperti nama branch.
+- Duplicate file README.md dan rename file tersebut sama seperti nama branch. contoh: johndoe_105022110001.md 
 - Edit baru tersebut dengan mengisi status instalasi pada tabel yang sudah disediakan.
 - git add dan commit dengan commit message "adding johndoe_105022110001.md" dan git push
 - lakukan pull request ke dalam branch sesuai dengan parallel kelas anda. (Bukan Branch Master)
