@@ -16,25 +16,40 @@ Pada Chapter ini kita akan melakukan instalasi [react native]. Pada latihan ini 
 
 ## Status Instalasi
 
-| Langkah-langkah                           | Status | Versi                                      |
-| ----------------------------------------- | ------ | -----                                      |
-| Instalasi Node                            | Done   | 20.11.0                                    |
-| Instalasi JDK                             | Done   | amazon-corretto-17.0.9.8.1                 |
-| Android Studio                            | Done   | Android Studio Hedgehog | 2023.1.1 Patch 1 |
-| SDK                                       | Done   | 30                                         |
-| ANDROID_HOME & Add platform-tools to Path | Done   | -                                          |
-| Android Emulator (opt)                    | Done   | Pixel 4a api 30                            |
-| Create Project RN using npx               | Done   | -                                          |
-| Run Project on Emulator / Device          | Done   | -                                          |
+| Langkah-langkah                           | Status | Versi |
+| ----------------------------------------- | ------ | ----- |
+| Instalasi Node                            |        |       |
+| Instalasi JDK                             |        |       |
+| Android Studio                            |        |       |
+| SDK                                       |        |       |
+| ANDROID_HOME & Add platform-tools to Path |        | -     |
+| Android Emulator (opt)                    |        | -     |
+| Create Project RN using npx               |        | -     |
+| Run Project on Emulator / Device          |        | -     |
 
+Silahkan update status instalasi anda, apabila sudah terinstall silahkan isi versinya:
+untuk mengetahui versi node ketik dari cmd (node -v) untuk mengetahui versi JDK ketik dari cmd (java --version).
+Sebagai contoh :
+
+| Langkah-langkah                           | Status | Versi                       |
+| ----------------------------------------- | ------ | --------------------------- |
+| Node                                      | Done   | 12.13.1                     |
+| JDK                                       | Done   | [openjdk 11.0.5 2019-10-15] |
+| Android Studio                            | Done   | 4.0                         |
+| SDK                                       | Done   | 29                          |
+| ANDROID_HOME & Add platform-tools to Path | Done   | -                           |
+| Android Emulator (opt)                    | Done   | pixel 2 xl api 29           |
+| Create Project RN using npx               | Done   | -                           |
+| Run Project on Emulator / Device          | Done   | -                           |
 
 ## Langkah-langkah Pengumpulan Latihan
 
 - Fork project github ini. Ada terdapat 3 branch yaitu: master, parallel-a, parallel-b, parallel-c
-- Dari local laptop/PC anda buat branch baru dengan nama sesuai dengan nama diikuti oleh nim. contoh: johndoe_105022110001
-- Buat file baru sama seperti nama anda dengan format .md. contoh: johndoe_105022110001.md
-- Edit file tersebut dengan mengisi status instalasi pada tabel yang sudah disediakan.
-- git add dan commit dengan commit message "adding johndoe_105022110001.md"
+- Cloning repository hasil forking ke local laptop/PC.
+- Dari local laptop/PC anda buat branch baru dengan nama sesuai dengan nama diikuti oleh nim. contoh: johndoe_105022110001. Dan masuk ke dalam branch tersebut
+- Duplicate file README.md dan rename file tersebut sama seperti nama branch. contoh: johndoe_105022110001.md 
+- Edit baru tersebut dengan mengisi status instalasi pada tabel yang sudah disediakan.
+- git add dan commit dengan commit message "adding johndoe_105022110001.md" dan git push ke branch yang baru dibuat
 - lakukan pull request ke dalam branch sesuai dengan parallel kelas anda. (Bukan Branch Master)
 
   [react native]: https://reactnative.dev/docs/environment-setup
