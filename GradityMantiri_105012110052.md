@@ -1,46 +1,46 @@
-[# Chapter 1. Setup Environment React Native
+# Chapter 1. Setup Environment React Native
 
 ## Mobile Application Development, Semester 2, Tahun Akademik 2023/2024
 
 ## #Exercise 01
 
-Pada Chapter ini kita akan melakukan instalasi \[react native\]. Pada latihan ini anda diminta untuk menginstall React Native CLI (Bukan Expo) dilaptop/PC masing-masing, dimana langkah-langkahnya adalah sebagai berikut:
+Pada Chapter ini kita akan melakukan instalasi \ [react native]. Pada latihan ini anda diminta untuk menginstall React Native CLI (Bukan Expo) dilaptop/PC masing-masing, dimana langkah-langkahnya adalah sebagai berikut:
 
 - Install Node, JDK
 - Install Android Studio & SDK
-- Konfigurasi tambahan (khusus yang menggunakan processor \[AMD\])
+- Konfigurasi tambahan (khusus yang menggunakan processor [AMD])
 - Configure the ANDROID_HOME environment variable & Add platform-tools to Path
-- Install Android Emulator (optional - bisa dilewati jika anda ingin menjalankan aplikasi langsung dari hp. Baca dokumentasi \[running on device\])
+- Install Android Emulator (optional - bisa dilewati jika anda ingin menjalankan aplikasi langsung dari hp. Baca dokumentasi [running on device])
 - Create project React Native menggunakan npx
 - Run project
 
 ## Status Instalasi
 
-| Langkah-langkah                           | Status | Versi |
-| ----------------------------------------- | ------ | ----- |
-| Instalasi Node                            |        |       |
-| Instalasi JDK                             |        |       |
-| Android Studio                            |        |       |
-| SDK                                       |        |       |
-| ANDROID_HOME & Add platform-tools to Path |        | -     |
-| Android Emulator (opt)                    |        | -     |
-| Create Project RN using npx               |        | -     |
-| Run Project on Emulator / Device          |        | -     |
+| Langkah-langkah                           | Status | Versi                           |
+| ----------------------------------------- | ------ | ------------------------------- |
+| Instalasi Node                            | Done   | v18.17.1                        |
+| Instalasi JDK                             | Done   | openjdk 17.0.10 2024-01-16      |
+| Android Studio                            | Done   | 4.0                             |
+| SDK                                       | Done   | 33                              |
+| ANDROID_HOME & Add platform-tools to Path | Done   | -                               |
+| Android Emulator (opt)                    | Done   | Medium Phone API 33             |
+| Create Project RN using npx               | Done   | -                               |
+| Run Project on Emulator / Device          | Done   | -                               |
 
 Silahkan update status instalasi anda, apabila sudah terinstall silahkan isi versinya:
 untuk mengetahui versi node ketik dari cmd (node -v) untuk mengetahui versi JDK ketik dari cmd (java --version).
 Sebagai contoh :
 
-| Langkah-langkah                           | Status | Versi                       |
-| ----------------------------------------- | ------ | --------------------------- |
-| Node                                      | Done   | 12.13.1                     |
-| JDK                                       | Done   | \[openjdk 11.0.5 2019-10-15\] |
-| Android Studio                            | Done   | 4.0                         |
-| SDK                                       | Done   | 29                          |
-| ANDROID_HOME & Add platform-tools to Path | Done   | -                           |
-| Android Emulator (opt)                    | Done   | pixel 2 xl api 29           |
-| Create Project RN using npx               | Done   | -                           |
-| Run Project on Emulator / Device          | Done   | -                           |
+| Langkah-langkah                           | Status | Versi                           |
+| ----------------------------------------- | ------ | ------------------------------- |
+| Node                                      | Done   | 12.13.1                         |
+| JDK                                       | Done   | [openjdk 11.0.5 2019-10-15]     |
+| Android Studio                            | Done   | 4.0                             |
+| SDK                                       | Done   | 29                              |
+| ANDROID_HOME & Add platform-tools to Path | Done   | -                               |
+| Android Emulator (opt)                    | Done   | pixel 2 xl api 29               |
+| Create Project RN using npx               | Done   | -                               |
+| Run Project on Emulator / Device          | Done   | -                               |
 
 ## Langkah-langkah Pengumpulan Latihan
 
@@ -52,8 +52,7 @@ Sebagai contoh :
 - git add dan commit dengan commit message "adding johndoe_105022110001.md" dan git push ke branch yang baru dibuat
 - lakukan pull request ke dalam branch sesuai dengan parallel kelas anda. (Bukan Branch Master)
 
-  \[react native\]: https://reactnative.dev/docs/environment-setup
-  \[running on device\]: https://reactnative.dev/docs/running-on-device
-  \[amd\]: https://android-developers.googleblog.com/2018/07/android-emulator-amd-processor-hyper-v.html
-  \[openjdk 11.0.5 2019-10-15\]: https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html
-](README.md)
+  [react native]: https://reactnative.dev/docs/environment-setup
+  [running on device]: https://reactnative.dev/docs/running-on-device
+  [amd]: https://android-developers.googleblog.com/2018/07/android-emulator-amd-processor-hyper-v.html
+  [openjdk 11.0.5 2019-10-15]: https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html
