@@ -18,37 +18,28 @@ Pada Chapter ini kita akan melakukan instalasi [react native]. Pada latihan ini 
 
 | Langkah-langkah                           | Status | Versi |
 | ----------------------------------------- | ------ | ----- |
-| Instalasi Node                            |        |       |
-| Instalasi JDK                             |        |       |
-| Android Studio                            |        |       |
-| SDK                                       |        |       |
-| ANDROID_HOME & Add platform-tools to Path |        | -     |
-| Android Emulator (opt)                    |        | -     |
-| Create Project RN using npx               |        | -     |
-| Run Project on Emulator / Device          |        | -     |
+| Instalasi Node                            |done    |  v18.17.1     |
+| Instalasi JDK                             |done    |   17    |
+| Android Studio                            |done    | Android Studio Hedgehog 1013.1.1 patch 1|
+| SDK                                       |done    |   29    |
+| ANDROID_HOME & Add platform-tools to Path |done    | -     |
+| Android Emulator (opt)                    |done    | Pixel_3a_API_34_extentesion_level_7_x86_64   |
+| Create Project RN using npx               |done    | -     |
+| Run Project on Emulator / Device          |done    11| -     |
 
 Silahkan update status instalasi anda, apabila sudah terinstall silahkan isi versinya:
 untuk mengetahui versi node ketik dari cmd (node -v) untuk mengetahui versi JDK ketik dari cmd (java --version).
 Sebagai contoh :
 
-| Langkah-langkah                           | Status | Versi                       |
-| ----------------------------------------- | ------ | --------------------------- |
-| Node                                      | Done   | 12.13.1                     |
-| JDK                                       | Done   | [openjdk 11.0.5 2019-10-15] |
-| Android Studio                            | Done   | 4.0                         |
-| SDK                                       | Done   | 29                          |
-| ANDROID_HOME & Add platform-tools to Path | Done   | -                           |
-| Android Emulator (opt)                    | Done   | pixel 2 xl api 29           |
-| Create Project RN using npx               | Done   | -                           |
-| Run Project on Emulator / Device          | Done   | -                           |
 
 ## Langkah-langkah Pengumpulan Latihan
 
 - Fork project github ini. Ada terdapat 3 branch yaitu: master, parallel-a, parallel-b, parallel-c
-- Dari local laptop/PC anda buat branch baru dengan nama sesuai dengan nama diikuti oleh nim. contoh: johndoe_105022110001
-- Buat file baru sama seperti nama anda dengan format .md. contoh: johndoe_105022110001.md
-- Edit file tersebut dengan mengisi status instalasi pada tabel yang sudah disediakan.
-- git add dan commit dengan commit message "adding johndoe_105022110001.md"
+- Cloning repository hasil forking ke local laptop/PC.
+- Dari local laptop/PC anda buat branch baru dengan nama sesuai dengan nama diikuti oleh nim. contoh: johndoe_105022110001. Dan masuk ke dalam branch tersebut
+- Duplicate file README.md dan rename file tersebut sama seperti nama branch. contoh: johndoe_105022110001.md 
+- Edit baru tersebut dengan mengisi status instalasi pada tabel yang sudah disediakan.
+- git add dan commit dengan commit message "adding johndoe_105022110001.md" dan git push ke branch yang baru dibuat
 - lakukan pull request ke dalam branch sesuai dengan parallel kelas anda. (Bukan Branch Master)
 
   [react native]: https://reactnative.dev/docs/environment-setup
