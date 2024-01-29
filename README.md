@@ -16,16 +16,6 @@ Pada Chapter ini kita akan melakukan instalasi [react native]. Pada latihan ini 
 
 ## Status Instalasi
 
-| Langkah-langkah                           | Status | Versi |
-| ----------------------------------------- | ------ | ----- |
-| Instalasi Node                            |done    |  v18.17.1     |
-| Instalasi JDK                             |done    |   17    |
-| Android Studio                            |done    | Android Studio Hedgehog 1013.1.1 patch 1|
-| SDK                                       |done    |   29    |
-| ANDROID_HOME & Add platform-tools to Path |done    | -     |
-| Android Emulator (opt)                    |done    | Pixel_3a_API_34_extentesion_level_7_x86_64   |
-| Create Project RN using npx               |done    | -     |
-| Run Project on Emulator / Device          |done    11| -     |
 
 Silahkan update status instalasi anda, apabila sudah terinstall silahkan isi versinya:
 untuk mengetahui versi node ketik dari cmd (node -v) untuk mengetahui versi JDK ketik dari cmd (java --version).
