@@ -17,15 +17,15 @@ Pada Chapter ini kita akan melakukan instalasi [react native]. Pada latihan ini 
 ## Status Instalasi
 
 | Langkah-langkah                           | Status | Versi |
-| ----------------------------------------- | ------ | ----- |
-| Instalasi Node                            |        |       |
-| Instalasi JDK                             |        |       |
-| Android Studio                            |        |       |
-| SDK                                       |        |       |
-| ANDROID_HOME & Add platform-tools to Path |        | -     |
-| Android Emulator (opt)                    |        | -     |
-| Create Project RN using npx               |        | -     |
-| Run Project on Emulator / Device          |        | -     |
+| ----------------------------------------- | ------ | -----
+| Instalasi Node                            |   ok   |  18.17.1   |
+| Instalasi JDK                             |   ok   |  17        |
+| Android Studio                            |   ok   |  17        |
+| SDK                                       |   ok   |  17        |
+| ANDROID_HOME & Add platform-tools to Path |   ok   | -          |
+| Android Emulator (opt)                    |   ok   | -          |
+| Create Project RN using npx               |   ok   | -          |
+| Run Project on Emulator / Device          |   ok   | -          |
 
 Silahkan update status instalasi anda, apabila sudah terinstall silahkan isi versinya:
 untuk mengetahui versi node ketik dari cmd (node -v) untuk mengetahui versi JDK ketik dari cmd (java --version).
@@ -33,12 +33,12 @@ Sebagai contoh :
 
 | Langkah-langkah                           | Status | Versi                       |
 | ----------------------------------------- | ------ | --------------------------- |
-| Node                                      | Done   | 20.11.0                     |
-| JDK                                       | Done   | [openjdk Amazon Coretto 17] |
-| Android Studio                            | Done   | 17.0.7                      |
-| SDK                                       | Done   | 33                          |
+| Node                                      | Done   | 18.17.1                     |
+| JDK                                       | Done   | 17                          |
+| Android Studio                            | Done   | 17                          |
+| SDK                                       | Done   | 17                          |
 | ANDROID_HOME & Add platform-tools to Path | Done   | -                           |
-| Android Emulator (opt)                    | Done   | pixel xl api 33             |
+| Android Emulator (opt)                    | Done   | pixel 5 api 30              |
 | Create Project RN using npx               | Done   | -                           |
 | Run Project on Emulator / Device          | Done   | -                           |
 
