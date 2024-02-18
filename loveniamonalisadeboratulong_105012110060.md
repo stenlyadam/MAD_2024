@@ -31,17 +31,17 @@ Silahkan update status instalasi anda, apabila sudah terinstall silahkan isi ver
 untuk mengetahui versi node ketik dari cmd (node -v) untuk mengetahui versi JDK ketik dari cmd (java --version).
 Sebagai contoh :
 
-| Langkah-langkah                           | Status | Versi                       |
-| ----------------------------------------- | ------ | --------------------------- |
-| Node                                      | Done   | 12.13.1                     |
-| JDK                                       | Done   | [openjdk 11.0.5 2019-10-15] |
-| Android Studio                            | Done   | 4.0                         |
-| SDK                                       | Done   | 29                          |
-| ANDROID_HOME & Add platform-tools to Path | Done   | -                           |
-| Android Emulator (opt)                    | Done   | pixel 2 xl api 29           |
-| Create Project RN using npx               | Done   | -                           |
-| Run Project on Emulator / Device          | Done   | -                           |
 
+| Langkah-langkah                           | Status | Versi                          |
+| ----------------------------------------- | ------ | -------------------------------|
+| Node                                      | Done   | v20.11.0                       |
+| JDK                                       | Done   | [Amazon Corretto jdk17.0.10_7] |
+| Android Studio                            | Done   | 4.0                            |
+| SDK                                       | Done   | 32                             |
+| ANDROID_HOME & Add platform-tools to Path | Done   | -                              |
+| Android Emulator (opt)                    | Done   | Physical                       |
+| Create Project RN using npx               | Done   | -                              |
+| Run Project on Emulator / Device          | Done   | -                              |
 ## Langkah-langkah Pengumpulan Latihan
 
 - Fork project github ini. Ada terdapat 3 branch yaitu: master, parallel-a, parallel-b, parallel-c
